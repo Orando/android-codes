@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Walter Orando\\AndroidStudioProjects\\NyimboZaKristo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gtk_media_pause.png",
+        "source": "C:\\Users\\Walter Orando\\AndroidStudioProjects\\NyimboZaKristo1\\app\\src\\main\\res\\drawable-xhdpi\\gtk_media_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Walter Orando\\AndroidStudioProjects\\NyimboZaKristo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play.png",
+        "source": "C:\\Users\\Walter Orando\\AndroidStudioProjects\\NyimboZaKristo1\\app\\src\\main\\res\\drawable-xhdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\Walter Orando\\AndroidStudioProjects\\NyimboZaKristo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pause.png",
+        "source": "C:\\Users\\Walter Orando\\AndroidStudioProjects\\NyimboZaKristo1\\app\\src\\main\\res\\drawable-xhdpi\\pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Walter Orando\\AndroidStudioProjects\\NyimboZaKristo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Walter Orando\\AndroidStudioProjects\\NyimboZaKristo1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

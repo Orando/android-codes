@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\BibleMotivation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4bf7e850073c496d416f4f0e5c91ca8afff4804f">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\BibleMotivation\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_4d273c25a09bd8795bb4b829ff2de3eddc27e849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\BibleMotivation\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_0a55de04e5eec908b1dbf1865961f2b20a7a8972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\BibleMotivation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2ca5e4feb31fe06488bcb34d78b34d352fdf57e6">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\BibleMotivation\app\build\intermediates\pre-dexed\debug\instant-run_ce86241e849cfc1d0ddf3e0a8535660ece6a0e9e.jar" />
+    </item>
+
+</items>

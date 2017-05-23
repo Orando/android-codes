@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <!--Thumbnail image -->
+    <com.android.volley.toolbox.NetworkImageView
+        android:id="@+id/ivImage"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_margin="8dp"
+        android:layout_alignParentLeft ="true" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+<!--player name -->
+    <TextView
+        android:id="@+id/childItemname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="5sp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        />
+            <!-- date of birth-->
+            <TextView
+                android:id="@+id/tvDateOfBirth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+            <!--height -->
+            <TextView
+                android:id="@+id/tvHeight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <!--country -->
+            <TextView
+                android:id="@+id/tvCountry"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!--description -->
+    <TextView
+        android:id="@+id/tvDescriptionn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#009A57"
+        />
+
+    <!--jerseyNo -->
+    <TextView
+        android:id="@+id/tvJerseyNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#009A57"
+         />
+
+    <!--former clubs -->
+    <TextView
+        android:id="@+id/tvFormerclub"
+        android:layout_width="wrap_content"
+        android:textColor="#166CED"
+        android:layout_height="wrap_content"
+         />
+
+    <!--weight -->
+    <TextView
+        android:id="@+id/tvWeight"
+        android:layout_width="wrap_content"
+        android:textColor="#166CED"
+        android:layout_height="wrap_content"
+         />
+
+</LinearLayout>

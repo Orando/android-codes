@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_502d14112286a938026c8dc8a4e1e318a4fe3734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5526331735ea445dd3ead7a5f750fdaa678f51ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a78e2286aab4773e4c939b8866f5226237b1a576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_979845b8666c0329be5e7dade2b10995296b193e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbfaff483f98e6b4099e7b66e7506bcca663e028">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_fe621aa42498ea872016bd765eef4774d818204b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_f30c8164f588493076c37b15c895d482c3252ca8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3b7a6d37fbe476e4554162e54ff0b62a90223b86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_cb0ec275df2f44d216029e5d727ebaa72acae8e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_f20b6875e4cd1cb37cd8efaa8b5409d51a9933ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_f20b6875e4cd1cb37cd8efaa8b5409d51a9933ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_624ce54b713365a3b4aecb14cac7b1142f2e991c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_be229343b2c45c311345c68789ae7fff6cb5f460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_858d1aca25ed022eb63f3e90cfc88fd37e229fbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4443f5aaf2a7e85e6243453e8947c2f71cda1ee8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_fd53a475daed2db507280385bbea73a91050270b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_1ab85c2e3e720d84c3250154d835fe1e3a840aa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_a093c546d990658295138fb7494c7701d256807d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_b3156e00caf840699c41d5ce2a801cef35cbeb56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_2dc85939199e78f013fa9c7849d9810b5e9ffa52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_2dc85939199e78f013fa9c7849d9810b5e9ffa52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5526331735ea445dd3ead7a5f750fdaa678f51ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a78e2286aab4773e4c939b8866f5226237b1a576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_a093c546d990658295138fb7494c7701d256807d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3b7a6d37fbe476e4554162e54ff0b62a90223b86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_502d14112286a938026c8dc8a4e1e318a4fe3734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_1ab85c2e3e720d84c3250154d835fe1e3a840aa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_fd53a475daed2db507280385bbea73a91050270b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_979845b8666c0329be5e7dade2b10995296b193e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_cb0ec275df2f44d216029e5d727ebaa72acae8e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4443f5aaf2a7e85e6243453e8947c2f71cda1ee8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_858d1aca25ed022eb63f3e90cfc88fd37e229fbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_be229343b2c45c311345c68789ae7fff6cb5f460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_f30c8164f588493076c37b15c895d482c3252ca8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_b3156e00caf840699c41d5ce2a801cef35cbeb56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="450f94d26349fa6bf35860fda44965e3de275c46">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\instant-run_fa35971c16f034fb94d2391b9f2662c867f05d88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_624ce54b713365a3b4aecb14cac7b1142f2e991c.jar" />
+    </item>
+
+</items>

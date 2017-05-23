@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.eugeneobiny.wedoapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name=".Invitations"
+            android:label="@string/title_activity_invitations"
+            android:parentActivityName=".Wedo"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.eugeneobiny.wedoapp.Wedo" />
+        </activity>
+        <activity
+            android:name=".Todolist"
+            android:label="@string/title_activity_todolist"
+            android:parentActivityName=".Wedo"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.eugeneobiny.wedoapp.Wedo" />
+        </activity>
+        <activity
+            android:name=".Vendors"
+            android:label="@string/title_activity_vendors"
+            android:parentActivityName=".Wedo"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.eugeneobiny.wedoapp.Wedo" />
+        </activity>
+        <activity
+            android:name=".JournalsActivity"
+            android:label="@string/title_activity_journals"
+            android:parentActivityName=".Wedo"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.eugeneobiny.wedoapp.Wedo" />
+        </activity>
+        <activity
+            android:name=".Gifts"
+            android:label="@string/title_activity_gifts"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Planner"
+            android:label="@string/title_activity_planner"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".WedoJournal"
+            android:label="@string/title_activity_wedo_journal"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Storyboard"
+            android:label="@string/title_activity_storyboard"
+            android:parentActivityName=".Wedo"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.eugeneobiny.wedoapp.Wedo" />
+        </activity>
+        <activity
+            android:name=".Wedo"
+            android:label="@string/title_activity_wedo"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

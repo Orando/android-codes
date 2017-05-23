@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout 
+            android:layout_width="fill_parent"
+            android:background="#FFDF990C"
+            android:layout_height="match_parent"
+            android:keepScreenOn="true"
+            android:orientation="vertical" >
+            
+        <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="YALIYOMO\n"
+        android:textSize="30sp"
+            android:textColor="#fff"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+            
+        <TextView
+            style="@style/MyTextAppearance"
+        android:id="@+id/textView2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Nyimbo Za Ibada"
+        android:gravity="center"
+        android:textSize="22sp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Kusujudu, Kusifu na Kuomba"
+        />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+
+        android:text="Kufunga Ibada"
+
+        />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Upendo Katika Ukombozi"
+
+        />
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Viumbe Vyote"
+
+        />
+
+    <Button
+        android:id="@+id/btn5"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Roho Mtakatifu"
+
+        />
+
+    <TextView
+        style="@style/MyTextAppearance"
+        android:id="@+id/textView3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="22sp"
+        android:text="Kanisa:"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/btn6"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+
+        android:layout_height="wrap_content"
+        android:text="Upendo na Ushirika"
+        />
+
+    <Button
+        android:id="@+id/btn7"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+
+        android:layout_height="wrap_content"
+        android:text="Ushuhuda na Huduma"
+
+        />
+
+    <Button
+        android:id="@+id/btn8"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Kupigana Vita na kushinda"
+
+        />
+
+    <Button
+        android:id="@+id/btn9"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Sabato"
+
+        />
+
+    <Button
+        android:id="@+id/btn10"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+
+        android:text="Asubuhi"
+
+        />
+
+    <Button
+        android:id="@+id/btn11"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Jioni"
+
+        />
+
+    <Button
+        android:id="@+id/btn12"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Sadaka"
+
+        />
+
+    <TextView
+        style="@style/MyTextAppearance"
+        android:id="@+id/textView4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="22sp"
+        android:text="Maisha ya Kikristo, Na Mafundisho ya Dini:"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/btn13"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Mwito wa Kristo"
+
+        />
+
+    <Button
+        android:id="@+id/btn14"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Toba na Msamaha"
+
+        />
+
+    <Button
+        android:id="@+id/btn15"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Imani na Tumaini"
+        />
+
+    <Button
+        android:id="@+id/btn16"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Kuamini na Amani"
+        />
+
+    <Button
+        android:id="@+id/btn17"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Sala"
+        />
+
+    <Button
+        android:id="@+id/btn18"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Kukata Maneno na Kujitoa Wakfu"
+        />
+
+    <Button
+        android:id="@+id/btn19"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Maongozi na Ulinzi"
+        />
+
+    <Button
+        android:id="@+id/btn20"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Kuja kwa Kristo Mara ya Pili"
+        />
+
+    <Button
+        android:id="@+id/btn21"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Hukumu"
+        />
+
+    <Button
+        android:id="@+id/btn22"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Makao ya Waliookoka"
+        />
+
+    <TextView
+        style="@style/MyTextAppearance"
+        android:id="@+id/textView5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="22sp"
+        android:text="Mikutano Maalum"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/btn23"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Ndoa"
+        />
+
+    <Button
+        android:id="@+id/btn24"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Mazishi"
+        />
+
+    <Button
+        android:id="@+id/btn25"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Ubatizo"
+        />
+
+    <Button
+        android:id="@+id/btn26"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Huduma ya Meza ya Bwana"
+        />
+
+    <Button
+        android:id="@+id/btn27"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Kutia Mikono"
+        />
+
+    <Button
+        android:id="@+id/btn28"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Kuweka Wakfu Kanisa"
+        />
+
+    <TextView
+        style="@style/MyTextAppearance"
+        android:id="@+id/textView6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="22sp"
+        android:text="Nyimbo Za Watoto na Vijana"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/btn29"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:text="Nyimbo za watoto na Vijana"
+        />
+
+    <TextView
+        style="@style/MyTextAppearance"
+        android:id="@+id/textView7"
+        android:gravity="center"
+        android:textSize="22sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Maitikio"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/btn30"
+        android:layout_width="fill_parent"
+        android:onClick="onClick"
+        android:layout_height="wrap_content"
+        android:keepScreenOn="true"
+        android:text="Maitikio"
+        />
+
+        </LinearLayout>
+    </ScrollView>
+
+    
+

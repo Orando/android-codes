@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="17"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="51963072287150"
+    token="5138643841256251427"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="18364" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="3504" />
+    <task
+        name="verifier"
+        duration="138" />
+
+    <artifact
+        location="C:\Users\Walter Orando\AndroidStudioProjects\BibleMotivation\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="51963072287150"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Walter Orando\AndroidStudioProjects\BibleMotivation\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

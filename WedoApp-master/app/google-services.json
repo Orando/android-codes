@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "52793778004",
+    "firebase_url": "https://wedoapp-db432.firebaseio.com",
+    "project_id": "wedoapp-db432",
+    "storage_bucket": "wedoapp-db432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52793778004:android:d41e6f61ee57fad5",
+        "android_client_info": {
+          "package_name": "com.example.eugeneobiny.wedoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52793778004-0mjh604aen7mqstlvidlfnlej7n23kd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eugeneobiny.wedoapp",
+            "certificate_hash": "a23888d45bcb5f80803857fc5c4f5acc659fdac4"
+          }
+        },
+        {
+          "client_id": "52793778004-4sua32tfveghr7u93tl576oefaojenf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eugeneobiny.wedoapp",
+            "certificate_hash": "57bc8bee27d2f28af47e29b7ff87d872c49c6a89"
+          }
+        },
+        {
+          "client_id": "52793778004-68gp31pinnodh00tu2roj7nq49guvv31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALPr5MTlPEZ6wQsN7-6kYcCOQidW07Smw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52793778004-68gp31pinnodh00tu2roj7nq49guvv31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

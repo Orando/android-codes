@@ -1,0 +1,11 @@
+
+Wrapping was successful.
+
+Services that were added are:
+VMAX Launch Ads
+VMAX Exit Ads
+Apprater
+Apsalar
+Urban Airship
+Apptentive
+Donate Samsung IAP

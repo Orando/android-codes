@@ -1,0 +1,1108 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:2:1-290:12
+	package
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:11:5-288:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.chalo.nzk.NZK
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:17:9-24:20
+	android:label
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:18:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.chalo.nzk.C1
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:25:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:25:19-37
+activity#com.chalo.nzk.C2
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:26:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:26:19-37
+activity#com.chalo.nzk.C3
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:27:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:27:19-37
+activity#com.chalo.nzk.C4
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:28:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:28:19-37
+activity#com.chalo.nzk.C5
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:29:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:29:19-37
+activity#com.chalo.nzk.C6
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:30:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:30:19-37
+activity#com.chalo.nzk.C7
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:31:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:31:19-37
+activity#com.chalo.nzk.C8
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:32:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:32:19-37
+activity#com.chalo.nzk.C9
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:33:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:33:19-37
+activity#com.chalo.nzk.C10
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:34:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:34:19-38
+activity#com.chalo.nzk.C11
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:35:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:35:19-38
+activity#com.chalo.nzk.C12
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:36:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:36:19-38
+activity#com.chalo.nzk.C13
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:37:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:37:19-38
+activity#com.chalo.nzk.C14
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:38:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:38:19-38
+activity#com.chalo.nzk.C15
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:39:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:39:19-38
+activity#com.chalo.nzk.C16
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:40:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:40:19-38
+activity#com.chalo.nzk.C17
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:41:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:41:19-38
+activity#com.chalo.nzk.C18
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:42:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:42:19-38
+activity#com.chalo.nzk.C19
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:43:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:43:19-38
+activity#com.chalo.nzk.C20
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:44:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:44:19-38
+activity#com.chalo.nzk.C21
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:45:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:45:19-38
+activity#com.chalo.nzk.C22
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:46:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:46:19-38
+activity#com.chalo.nzk.C23
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:47:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:47:19-38
+activity#com.chalo.nzk.C24
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:48:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:48:19-38
+activity#com.chalo.nzk.C25
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:49:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:49:19-38
+activity#com.chalo.nzk.C26
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:50:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:50:19-38
+activity#com.chalo.nzk.C27
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:51:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:51:19-38
+activity#com.chalo.nzk.C28
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:52:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:52:19-38
+activity#com.chalo.nzk.C29
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:53:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:53:19-38
+activity#com.chalo.nzk.C30
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:54:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:54:19-38
+activity#com.chalo.nzk.H1
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:55:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:55:19-37
+activity#com.chalo.nzk.H2
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:56:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:56:19-37
+activity#com.chalo.nzk.H3
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:57:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:57:19-37
+activity#com.chalo.nzk.H4
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:58:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:58:19-37
+activity#com.chalo.nzk.H5
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:59:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:59:19-37
+activity#com.chalo.nzk.H6
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:60:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:60:19-37
+activity#com.chalo.nzk.H7
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:61:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:61:19-37
+activity#com.chalo.nzk.H8
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:62:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:62:19-37
+activity#com.chalo.nzk.H9
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:63:9-49
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:63:19-37
+activity#com.chalo.nzk.H10
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:64:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:64:19-38
+activity#com.chalo.nzk.H11
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:65:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:65:19-38
+activity#com.chalo.nzk.H12
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:66:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:66:19-38
+activity#com.chalo.nzk.H13
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:67:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:67:19-38
+activity#com.chalo.nzk.H14
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:68:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:68:19-38
+activity#com.chalo.nzk.H15
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:69:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:69:19-38
+activity#com.chalo.nzk.H16
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:70:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:70:19-38
+activity#com.chalo.nzk.H17
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:71:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:71:19-38
+activity#com.chalo.nzk.H18
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:72:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:72:19-38
+activity#com.chalo.nzk.H19
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:73:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:73:19-38
+activity#com.chalo.nzk.H20
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:74:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:74:19-38
+activity#com.chalo.nzk.H21
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:75:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:75:19-38
+activity#com.chalo.nzk.H22
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:76:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:76:19-38
+activity#com.chalo.nzk.H23
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:77:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:77:19-38
+activity#com.chalo.nzk.H24
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:78:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:78:19-38
+activity#com.chalo.nzk.H25
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:79:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:79:19-38
+activity#com.chalo.nzk.H26
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:80:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:80:19-38
+activity#com.chalo.nzk.H26a
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:81:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:81:19-39
+activity#com.chalo.nzk.H27
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:82:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:82:19-38
+activity#com.chalo.nzk.H28
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:83:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:83:19-38
+activity#com.chalo.nzk.H29
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:84:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:84:19-38
+activity#com.chalo.nzk.H30
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:85:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:85:19-38
+activity#com.chalo.nzk.H31
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:86:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:86:19-38
+activity#com.chalo.nzk.H32
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:87:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:87:19-38
+activity#com.chalo.nzk.H33
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:88:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:88:19-38
+activity#com.chalo.nzk.H34
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:89:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:89:19-38
+activity#com.chalo.nzk.H35
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:90:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:90:19-38
+activity#com.chalo.nzk.H36
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:91:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:91:19-38
+activity#com.chalo.nzk.H37
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:92:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:92:19-38
+activity#com.chalo.nzk.H38
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:93:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:93:19-38
+activity#com.chalo.nzk.H39
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:94:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:94:19-38
+activity#com.chalo.nzk.H40
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:95:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:95:19-38
+activity#com.chalo.nzk.H41
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:96:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:96:19-38
+activity#com.chalo.nzk.H42
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:97:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:97:19-38
+activity#com.chalo.nzk.H43
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:98:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:98:19-38
+activity#com.chalo.nzk.H44
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:99:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:99:19-38
+activity#com.chalo.nzk.H45
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:100:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:100:19-38
+activity#com.chalo.nzk.H46
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:101:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:101:19-38
+activity#com.chalo.nzk.H47
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:102:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:102:19-38
+activity#com.chalo.nzk.H48
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:103:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:103:19-38
+activity#com.chalo.nzk.H49
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:104:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:104:19-38
+activity#com.chalo.nzk.H50
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:105:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:105:19-38
+activity#com.chalo.nzk.H51
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:106:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:106:19-38
+activity#com.chalo.nzk.H52
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:107:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:107:19-38
+activity#com.chalo.nzk.H53
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:108:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:108:19-38
+activity#com.chalo.nzk.H54
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:109:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:109:19-38
+activity#com.chalo.nzk.H55
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:110:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:110:19-38
+activity#com.chalo.nzk.H56
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:111:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:111:19-38
+activity#com.chalo.nzk.H57
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:112:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:112:19-38
+activity#com.chalo.nzk.H58
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:113:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:113:19-38
+activity#com.chalo.nzk.H59
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:114:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:114:19-38
+activity#com.chalo.nzk.H60
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:115:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:115:19-38
+activity#com.chalo.nzk.H61
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:116:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:116:19-38
+activity#com.chalo.nzk.H62
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:117:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:117:19-38
+activity#com.chalo.nzk.H63
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:118:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:118:19-38
+activity#com.chalo.nzk.H64
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:119:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:119:19-38
+activity#com.chalo.nzk.H65
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:120:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:120:19-38
+activity#com.chalo.nzk.H66
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:121:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:121:19-38
+activity#com.chalo.nzk.H67
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:122:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:122:19-38
+activity#com.chalo.nzk.H68
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:123:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:123:19-38
+activity#com.chalo.nzk.H69
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:124:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:124:19-38
+activity#com.chalo.nzk.H70
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:125:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:125:19-38
+activity#com.chalo.nzk.H71
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:126:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:126:19-38
+activity#com.chalo.nzk.H72
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:127:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:127:19-38
+activity#com.chalo.nzk.H73
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:128:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:128:19-38
+activity#com.chalo.nzk.H74
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:129:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:129:19-38
+activity#com.chalo.nzk.H75
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:130:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:130:19-38
+activity#com.chalo.nzk.H76
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:131:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:131:19-38
+activity#com.chalo.nzk.H77
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:132:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:132:19-38
+activity#com.chalo.nzk.H78
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:133:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:133:19-38
+activity#com.chalo.nzk.H79
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:134:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:134:19-38
+activity#com.chalo.nzk.H80
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:135:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:135:19-38
+activity#com.chalo.nzk.H81
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:136:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:136:19-38
+activity#com.chalo.nzk.H82
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:137:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:137:19-38
+activity#com.chalo.nzk.H83
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:138:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:138:19-38
+activity#com.chalo.nzk.H84
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:139:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:139:19-38
+activity#com.chalo.nzk.H85
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:140:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:140:19-38
+activity#com.chalo.nzk.H86
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:141:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:141:19-38
+activity#com.chalo.nzk.H87
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:142:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:142:19-38
+activity#com.chalo.nzk.H88
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:143:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:143:19-38
+activity#com.chalo.nzk.H89
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:144:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:144:19-38
+activity#com.chalo.nzk.H90
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:145:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:145:19-38
+activity#com.chalo.nzk.H91
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:146:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:146:19-38
+activity#com.chalo.nzk.H92
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:147:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:147:19-38
+activity#com.chalo.nzk.H93
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:148:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:148:19-38
+activity#com.chalo.nzk.H94
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:149:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:149:19-38
+activity#com.chalo.nzk.H95
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:150:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:150:19-38
+activity#com.chalo.nzk.H96
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:151:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:151:19-38
+activity#com.chalo.nzk.H97
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:152:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:152:19-38
+activity#com.chalo.nzk.H98
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:153:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:153:19-38
+activity#com.chalo.nzk.H99
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:154:9-50
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:154:19-38
+activity#com.chalo.nzk.H100
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:155:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:155:19-39
+activity#com.chalo.nzk.H101
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:156:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:156:19-39
+activity#com.chalo.nzk.H102
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:157:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:157:19-39
+activity#com.chalo.nzk.H103
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:158:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:158:19-39
+activity#com.chalo.nzk.H104
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:159:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:159:19-39
+activity#com.chalo.nzk.H105
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:160:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:160:19-39
+activity#com.chalo.nzk.H106
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:161:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:161:19-39
+activity#com.chalo.nzk.H107
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:162:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:162:19-39
+activity#com.chalo.nzk.H108
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:163:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:163:19-39
+activity#com.chalo.nzk.H109
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:164:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:164:19-39
+activity#com.chalo.nzk.H110
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:165:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:165:19-39
+activity#com.chalo.nzk.H111
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:166:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:166:19-39
+activity#com.chalo.nzk.H112
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:167:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:167:19-39
+activity#com.chalo.nzk.H113
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:168:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:168:19-39
+activity#com.chalo.nzk.H114
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:169:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:169:19-39
+activity#com.chalo.nzk.H115
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:170:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:170:19-39
+activity#com.chalo.nzk.H116
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:171:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:171:19-39
+activity#com.chalo.nzk.H117
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:172:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:172:19-39
+activity#com.chalo.nzk.H118
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:173:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:173:19-39
+activity#com.chalo.nzk.H119
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:174:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:174:19-39
+activity#com.chalo.nzk.H120
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:175:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:175:19-39
+activity#com.chalo.nzk.H121
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:176:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:176:19-39
+activity#com.chalo.nzk.H122
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:177:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:177:19-39
+activity#com.chalo.nzk.H123
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:178:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:178:19-39
+activity#com.chalo.nzk.H124
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:179:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:179:19-39
+activity#com.chalo.nzk.H125
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:180:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:180:19-39
+activity#com.chalo.nzk.H126
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:181:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:181:19-39
+activity#com.chalo.nzk.H127
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:182:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:182:19-39
+activity#com.chalo.nzk.H128
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:183:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:183:19-39
+activity#com.chalo.nzk.H129
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:184:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:184:19-39
+activity#com.chalo.nzk.H130
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:185:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:185:19-39
+activity#com.chalo.nzk.H131
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:186:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:186:19-39
+activity#com.chalo.nzk.H131a
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:187:9-52
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:187:19-40
+activity#com.chalo.nzk.H132
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:188:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:188:19-39
+activity#com.chalo.nzk.H133
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:189:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:189:19-39
+activity#com.chalo.nzk.H134
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:190:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:190:19-39
+activity#com.chalo.nzk.H135
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:191:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:191:19-39
+activity#com.chalo.nzk.H136
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:192:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:192:19-39
+activity#com.chalo.nzk.H137
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:193:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:193:19-39
+activity#com.chalo.nzk.H138
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:194:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:194:19-39
+activity#com.chalo.nzk.H139
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:195:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:195:19-39
+activity#com.chalo.nzk.H140
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:196:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:196:19-39
+activity#com.chalo.nzk.H141
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:197:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:197:19-39
+activity#com.chalo.nzk.H142
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:198:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:198:19-39
+activity#com.chalo.nzk.H143
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:199:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:199:19-39
+activity#com.chalo.nzk.H144
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:200:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:200:19-39
+activity#com.chalo.nzk.H145
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:201:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:201:19-39
+activity#com.chalo.nzk.H146
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:202:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:202:19-39
+activity#com.chalo.nzk.H147
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:203:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:203:19-39
+activity#com.chalo.nzk.H148
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:204:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:204:19-39
+activity#com.chalo.nzk.H149
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:205:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:205:19-39
+activity#com.chalo.nzk.H150
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:206:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:206:19-39
+activity#com.chalo.nzk.H151
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:207:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:207:19-39
+activity#com.chalo.nzk.H152
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:208:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:208:19-39
+activity#com.chalo.nzk.H153
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:209:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:209:19-39
+activity#com.chalo.nzk.H154
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:210:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:210:19-39
+activity#com.chalo.nzk.H155
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:211:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:211:19-39
+activity#com.chalo.nzk.H156
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:212:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:212:19-39
+activity#com.chalo.nzk.H157
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:213:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:213:19-39
+activity#com.chalo.nzk.H158
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:214:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:214:19-39
+activity#com.chalo.nzk.H159
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:215:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:215:19-39
+activity#com.chalo.nzk.H160
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:216:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:216:19-39
+activity#com.chalo.nzk.H161
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:217:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:217:19-39
+activity#com.chalo.nzk.H162
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:218:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:218:19-39
+activity#com.chalo.nzk.H163
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:219:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:219:19-39
+activity#com.chalo.nzk.H164
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:220:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:220:19-39
+activity#com.chalo.nzk.H165
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:221:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:221:19-39
+activity#com.chalo.nzk.H166
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:222:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:222:19-39
+activity#com.chalo.nzk.H167
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:223:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:223:19-39
+activity#com.chalo.nzk.H168
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:224:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:224:19-39
+activity#com.chalo.nzk.H169
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:225:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:225:19-39
+activity#com.chalo.nzk.H170
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:226:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:226:19-39
+activity#com.chalo.nzk.H171
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:227:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:227:19-39
+activity#com.chalo.nzk.H172
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:228:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:228:19-39
+activity#com.chalo.nzk.H173
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:229:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:229:19-39
+activity#com.chalo.nzk.H174
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:230:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:230:19-39
+activity#com.chalo.nzk.H175
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:231:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:231:19-39
+activity#com.chalo.nzk.H176
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:232:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:232:19-39
+activity#com.chalo.nzk.H177
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:233:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:233:19-39
+activity#com.chalo.nzk.H178
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:234:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:234:19-39
+activity#com.chalo.nzk.H179
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:235:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:235:19-39
+activity#com.chalo.nzk.H180
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:236:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:236:19-39
+activity#com.chalo.nzk.H181
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:237:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:237:19-39
+activity#com.chalo.nzk.H182
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:238:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:238:19-39
+activity#com.chalo.nzk.H183
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:239:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:239:19-39
+activity#com.chalo.nzk.H184
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:240:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:240:19-39
+activity#com.chalo.nzk.H185
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:241:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:241:19-39
+activity#com.chalo.nzk.H186
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:242:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:242:19-39
+activity#com.chalo.nzk.H187
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:243:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:243:19-39
+activity#com.chalo.nzk.H188
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:244:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:244:19-39
+activity#com.chalo.nzk.H189
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:245:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:245:19-39
+activity#com.chalo.nzk.H190
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:246:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:246:19-39
+activity#com.chalo.nzk.H191
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:247:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:247:19-39
+activity#com.chalo.nzk.H192
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:248:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:248:19-39
+activity#com.chalo.nzk.H193
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:249:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:249:19-39
+activity#com.chalo.nzk.H194
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:250:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:250:19-39
+activity#com.chalo.nzk.H195
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:251:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:251:19-39
+activity#com.chalo.nzk.H196
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:252:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:252:19-39
+activity#com.chalo.nzk.H197
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:253:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:253:19-39
+activity#com.chalo.nzk.H198
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:254:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:254:19-39
+activity#com.chalo.nzk.H199
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:255:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:255:19-39
+activity#com.chalo.nzk.H200
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:256:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:256:19-39
+activity#com.chalo.nzk.H201
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:257:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:257:19-39
+activity#com.chalo.nzk.H202
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:258:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:258:19-39
+activity#com.chalo.nzk.H203
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:259:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:259:19-39
+activity#com.chalo.nzk.H204
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:260:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:260:19-39
+activity#com.chalo.nzk.H205
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:261:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:261:19-39
+activity#com.chalo.nzk.H206
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:262:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:262:19-39
+activity#com.chalo.nzk.H207
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:263:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:263:19-39
+activity#com.chalo.nzk.H208
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:264:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:264:19-39
+activity#com.chalo.nzk.H209
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:265:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:265:19-39
+activity#com.chalo.nzk.H210
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:266:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:266:19-39
+activity#com.chalo.nzk.H211
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:267:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:267:19-39
+activity#com.chalo.nzk.H212
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:268:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:268:19-39
+activity#com.chalo.nzk.H213
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:269:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:269:19-39
+activity#com.chalo.nzk.H214
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:270:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:270:19-39
+activity#com.chalo.nzk.H215
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:271:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:271:19-39
+activity#com.chalo.nzk.H216
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:272:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:272:19-39
+activity#com.chalo.nzk.H217
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:273:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:273:19-39
+activity#com.chalo.nzk.H218
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:274:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:274:19-39
+activity#com.chalo.nzk.H219
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:275:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:275:19-39
+activity#com.chalo.nzk.H220
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:276:9-51
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:276:19-39
+activity#com.chalo.nzk.SongList
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:277:9-283:20
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:277:19-43
+intent-filter#android.intent.action.SEARCH
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:278:13-280:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:279:17-71
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:279:25-68
+meta-data#android.app.searchable
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:281:13-282:57
+	android:resource
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:282:17-54
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:281:24-61
+activity#com.chalo.nzk.Yaliyomo
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:284:9-55
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:284:19-43
+activity#com.chalo.nzk.About
+ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:285:9-52
+	android:name
+		ADDED from C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo\app\src\main\AndroidManifest.xml:285:19-40

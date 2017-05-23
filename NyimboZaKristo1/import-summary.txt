@@ -1,0 +1,107 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+C:\Users\Walter Orando\AndroidStudioProjects\NyimboZaKristo1
+               -                                            
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* s1.MID => s1.mid
+* s10.MID => s10.mid
+* s101.MID => s101.mid
+* s11.MID => s11.mid
+* s111.MID => s111.mid
+* s120.MID => s120.mid
+* s122.MID => s122.mid
+* s123.MID => s123.mid
+* s126.MID => s126.mid
+* s127.MID => s127.mid
+* s128.MID => s128.mid
+* s129.MID => s129.mid
+* s130.MID => s130.mid
+* s131.MID => s131.mid
+* s134.MID => s134.mid
+* s135.MID => s135.mid
+* s141.MID => s141.mid
+* s144.MID => s144.mid
+* s151.MID => s151.mid
+* s152.MID => s152.mid
+* s156.MID => s156.mid
+* s163.MID => s163.mid
+* s167.MID => s167.mid
+* s173.MID => s173.mid
+* s185.MID => s185.mid
+* s192.MID => s192.mid
+* s195.MID => s195.mid
+* s205.MID => s205.mid
+* s22.MID => s22.mid
+* s25.MID => s25.mid
+* s26.MID => s26.mid
+* s29.MID => s29.mid
+* s3.MID => s3.mid
+* s31.MID => s31.mid
+* s37.MID => s37.mid
+* s4.MID => s4.mid
+* s43.MID => s43.mid
+* s47.MID => s47.mid
+* s49.MID => s49.mid
+* s5.MID => s5.mid
+* s50.MID => s50.mid
+* s51.MID => s51.mid
+* s53.MID => s53.mid
+* s63.MID => s63.mid
+* s69.MID => s69.mid
+* s7.MID => s7.mid
+* s89.MID => s89.mid
+* s91.MID => s91.mid
+* s92.MID => s92.mid
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

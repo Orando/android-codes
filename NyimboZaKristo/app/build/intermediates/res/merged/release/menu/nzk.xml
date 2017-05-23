@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+        <item
+        android:id="@+id/share"
+        android:orderInCategory="100"
+            android:title="@string/share"
+        android:showAsAction="collapseActionView|ifRoom"
+        android:icon="@android:drawable/ic_menu_share"
+        />
+
+</menu>

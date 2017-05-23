@@ -1,0 +1,4 @@
+#Tue Oct 04 12:30:09 EAT 2016
+base.0=C\:\\Users\\Walter Orando\\AndroidStudioProjects\\BibleMotivation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Walter Orando\\AndroidStudioProjects\\BibleMotivation\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

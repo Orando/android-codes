@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.walterorando.yrproject">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".app.AppController"
+        android:allowBackup="true"
+        android:icon="@drawable/tandaza1"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".activities.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.example.walterorando.yrproject.activities.Officials_Activity"
+            android:label="@string/officials" >
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value="com.example.walterorando.yrproject.activities.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.walterorando.yrproject.activities.Leagues_Activity"
+            android:label="@string/leagues">
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value="com.example.walterorando.yrproject.activities.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.walterorando.yrproject.activities.Invite_Friends_Activity"
+            android:label="@string/invite_users">
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value="com.example.walterorando.yrproject.activities.MainActivity"/>
+            </activity>
+        <activity
+            android:name="com.example.walterorando.yrproject.activities.Profile_Activity"
+            android:parentActivityName="com.example.walterorando.yrproject.activities.MainActivity"
+            android:label="">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.walterorando.yrproject.activities.MainActivity" />
+        </activity>
+
+        <activity
+            android:name="com.example.walterorando.yrproject.activities.Settings_Activity"
+            android:label="@string/settings"
+            android:parentActivityName="com.example.walterorando.yrproject.activities.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.walterorando.yrproject.activities.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.walterorando.yrproject.activities.AddStoryActivity"
+            android:label="Add Story"
+            android:parentActivityName="com.example.walterorando.yrproject.activities.MainActivity"
+            >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.walterorando.yrproject.activities.MainActivity" />
+            </activity>
+
+
+    </application>
+
+</manifest>
